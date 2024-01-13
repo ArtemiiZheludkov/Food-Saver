@@ -1,2 +1,2 @@
-# Food-Saver
-My first project
+# FoodSaver
+ My first released clicker game
